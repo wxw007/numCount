@@ -1,6 +1,6 @@
 # numCount
 获取验证码倒计时
-说明: #getCode 为包裹倒计时数字的容器id
+说明: #getCode 为包裹倒计时数字的容器id, n为数字
 ```function(){
   var n = 5;
     $("#getCode").click(function(event) {
